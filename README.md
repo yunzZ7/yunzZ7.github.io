@@ -17,7 +17,7 @@ npm install
 
 npm run dev
 ```
-##页面展示
+##页面展示（具体视频展示可下载目录下的2024-10-16 17-03-05.MKV）
 ![1729070040199](https://github.com/user-attachments/assets/4b4ff206-d6c8-47be-b0fc-e75c742fc97d)
 ![1729070085526](https://github.com/user-attachments/assets/57351589-b886-410c-8dbf-3254075ec33a)
 ![1729070112622](https://github.com/user-attachments/assets/558db7ea-2da8-48cb-bf54-e2cd4625202f)
