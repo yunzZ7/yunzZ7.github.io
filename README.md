@@ -1,35 +1,20 @@
-# vue-rabbit
+# 小兔鲜
 
-This template should help get you started developing with Vue 3 in Vite.
+## 技术栈
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```
+Vue3 ts vive vue-router pinia(大菠萝) axios element-plus vue-lazyload
 ```
 
-### Compile and Hot-Reload for Development
+**搭建工具**：Vite
 
-```sh
+## 启动项目
+
+```
+cd vite-project
+
+npm install
+
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
